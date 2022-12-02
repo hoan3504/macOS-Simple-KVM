@@ -2,7 +2,7 @@ The extras folder will contain most of stuffs helping the learning processes abo
 from G Somlo impulsion.
 
       In particular I shall take definitely a non conformist way to this learning ,for example I shall not
-      only explain what I understand from the foxlet's repo ,by giving unusual example of using it ,but 
+      only explain what I understand from the foxletfox's repo ,by giving unusual example of using it ,but 
       also I shall emphasize on examples of how one can do things differently from what everybody sees when
       googling around ....and of course even beyond kvm virtual mac .
 

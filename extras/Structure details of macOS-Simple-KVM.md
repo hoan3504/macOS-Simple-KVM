@@ -14,7 +14,7 @@
    ## BaseSystem.dmg   InstallESD.dmg
 
 # Packagings
-         pkg  dmg  iso                                                                       
+         pkg  zip  iso  dmg                                                                     
          
          
 # Operating environments
@@ -25,8 +25,9 @@
    In linux most of "iso" are installerimage (beside the fact they could be running live).
    Roughly speaking "iso" contain a bootloader + a rootfilesystem (compressed). Since mac 
    has a very rich usage of packaging (pkg iso dmg )the installerimage for mac appears as 
-   2 files : 
-      BaseSystem.dmg and InstallESD.dmg   or a slight variant (InstallESDDmg.pkg).     
+   2 files :
+     
+        BaseSystem.dmg and InstallESD.dmg   or a slight variant (InstallESDDmg.pkg).     
               
               On mac users never care about packaging or container since one just 
      click or double click on it and things appear crystal clear to play with.
@@ -43,4 +44,7 @@
      -  an eastern european proposed darling-dmg to mount directly the compressed hfs 
               partition allowing manipulation directly
          
-     -  using the universal compress/uncompress 7z to unwield and get the hfs partition  
+     -  using the universal compress/uncompress 7z to unwield and get the hfs partition 
+    
+     
+     
